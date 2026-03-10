@@ -26,5 +26,4 @@ while True:
             tareas.pop(i)
 
 
-MAMAMEEEE EL WEBOOOOOO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
   

@@ -3,7 +3,7 @@
 #Lista
 
 Signos = ["Caballo", "Cabra", "Mono", "Gallo", "Perro", "Cerdo", "Rata", "Buey", "Tigre", "Conejo", "Dragón", "Serpiente"]
-Elementos = ["Metal ⚙️", "Agua  💧", "Madera  🪵", "Fuego 🔥" "Tierra 🌍"]
+Elementos = ["Metal ⚙️", "Agua  💧", "Madera  🪵", "Fuego 🔥", "Tierra 🌍"]
 
 #Recopilacion de datos
 
